@@ -42,4 +42,4 @@ budget-dashboard/
 
 
 ## Preview
-![Budget Dashboard] (budget-dashboard.png)
+![Budget Dashboard](budget-dashboard.png)
