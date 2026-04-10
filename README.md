@@ -39,3 +39,7 @@ budget-dashboard/
 ├── data.csv
 ├── README.md
 └── .gitignore
+
+
+## Preview
+![Budget Dashboard] (budget-dashboard.png)
